@@ -1,0 +1,19 @@
+h1 {
+	font-family: Helvetica;
+}
+body {
+	background: #DEB887
+}
+img {
+  filter: saturate(0.6);
+}
+ 
+figure {
+  filter: contrast(1.1) saturate(1.9) sepia(0.7) grayscale(0.3);
+}
+img {
+	height:  800px;
+    width: 70%;
+    background-color: powderblue;
+
+}
